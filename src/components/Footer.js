@@ -7,7 +7,7 @@ function Footer() {
 
     var d = new Date();
     var n = d.getFullYear();
-    
+
   return (
     <div className='footer-container'>
       <section className='footer-subscription'>
